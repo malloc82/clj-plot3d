@@ -1,0 +1,7 @@
+
+* 3D surface plots
+*** plot for a given function
+*** plot for a given dataset 
+* 3D scatter plots
+*** plot for a given dataset
+*** dynamically add more points to to plot 
